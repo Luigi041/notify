@@ -4,6 +4,4 @@ Criei um server side onde existe anuncios personalizados por permissão.
 
 Meu discord
 Underground Store
-https://discord.gg/w8hwRYJ4Zv
-https://discord.gg/w8hwRYJ4Zv
-https://discord.gg/w8hwRYJ4Zv
+https://discord.gg/W344tNkzCT
